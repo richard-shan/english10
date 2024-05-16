@@ -1,4 +1,6 @@
-site_name: Richard Shan - English 10 Final Portfolio
+site_name: Richard Shan - English 10 Portfolio
+nav:
+  - Home: index.md
 
 theme: material
 
