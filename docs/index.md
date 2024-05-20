@@ -5,7 +5,7 @@
 <br>
 
 <center>
-<img src="../pic.jpg" width="250"/>
+<img src="../../pic.jpg" width="250"/>
 </center>
 
 <br>
