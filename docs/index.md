@@ -10,28 +10,18 @@
 
 <br>
 
-Hi, I'm Richard. I am a very avid writer, creating multiple documents and producing hundreds of lines (of code) daily. In terms of literature, I don't really explore creative writing on my own time. However, I do regularly utilize technical writing and academic writing across a small variety of topics.
+Hi, I'm Richard. In terms of writing, I am great at writing code, creating multiple documents and producing hundreds of lines daily. I don't really explore creative writing on my own time. However, I do regularly utilize technical writing and academic writing across a small variety of topics. I especially enjoy the formal tone of technical/academic writing, even when the norms are unnecessarily pompous.
 
 ## Work
 
-This section exhibits the various essays and assignments that I have produced throughout the year. This section is organized in chronological order, with earliest writings at the start of this year at the top, and latest writings at the bottom.
+This section exhibits the various essays and assignments that I have produced throughout the year. This section is organized in order of importance to me, with my favorite works at the top.
 
-### Introduction to a Dog Paragraph
+### LLMs - Argumentative Writing
 
-<center>
-<iframe width="100%" height="750px" src="https://docs.google.com/document/d/e/2PACX-1vRr1eytCuqH0cdiZ_UVPb40nxSu9HCF9GJDizT4RgxuzqVsKRJYSLG9T9Pjv3ogaQHzeNRfrgr8Kt4_/pub?embedded=true"></iframe>
-</center>
-
-### Short Story Essay - Analytical Writing
+N.B. This paper was written for the sake of practicing argumentative writing. This paper does not reflect my view on large language models, or any companies, practices, or individuals mentioned herein.
 
 <center>
-<iframe width="100%" height="750px" src="https://docs.google.com/document/d/e/2PACX-1vS_vedecEuII7s-EAM_nb5bd7v7J4mlrBlfJ2Nu23-Pyo88drh8Yyv8OIP-Ihb7cxsCYwXcJb9_Uh4W/pub?embedded=true"></iframe>
-</center>
-
-### Flash Fiction - Creative Writing
-
-<center>
-<iframe width="100%" height="750px" src="https://docs.google.com/document/d/e/2PACX-1vS2ohr7AIo-6x3yz0e8NEn6xm36oPQeVP-MGPGyoHBBuBBgwwXy1xjO0HiXJn4eYUJTbRFxPTt3cQlB/pub?embedded=true"></iframe>
+<iframe width="100%" height="750px" src="https://docs.google.com/document/d/e/2PACX-1vTvTLwx_qPUl4H9VARze5h4Oefrmy2Xncaj7d5zoiGT1njqSdrd62vi9kUaJm8ny6fZHZlZ23wcrEYa/pub?embedded=true"></iframe>
 </center>
 
 ### Fahrenheit 451 - Analytical Writing
@@ -46,11 +36,32 @@ This section exhibits the various essays and assignments that I have produced th
 <iframe width="100%" height="750px" src="https://docs.google.com/document/d/e/2PACX-1vQFkriZgHMjvYJEB1Vxjf0E14VYpPLuz1uPJWcQPqACpQ6TzpcfljGvATqe46iIDzwEMnWI7DKTFEpq/pub?embedded=true"></iframe>
 </center>
 
-### Research Paper - Argumentative Writing
+### Flash Fiction - Creative Writing
 
 <center>
-<iframe width="100%" height="750px" src="https://docs.google.com/document/d/e/2PACX-1vTvTLwx_qPUl4H9VARze5h4Oefrmy2Xncaj7d5zoiGT1njqSdrd62vi9kUaJm8ny6fZHZlZ23wcrEYa/pub?embedded=true"></iframe>
+<iframe width="100%" height="750px" src="https://docs.google.com/document/d/e/2PACX-1vS2ohr7AIo-6x3yz0e8NEn6xm36oPQeVP-MGPGyoHBBuBBgwwXy1xjO0HiXJn4eYUJTbRFxPTt3cQlB/pub?embedded=true"></iframe>
 </center>
+
+### Short Story Essay - Analytical Writing
+
+<center>
+<iframe width="100%" height="750px" src="https://docs.google.com/document/d/e/2PACX-1vS_vedecEuII7s-EAM_nb5bd7v7J4mlrBlfJ2Nu23-Pyo88drh8Yyv8OIP-Ihb7cxsCYwXcJb9_Uh4W/pub?embedded=true"></iframe>
+</center>
+
+### Introduction to a Dog Paragraph
+
+<center>
+<iframe width="100%" height="750px" src="https://docs.google.com/document/d/e/2PACX-1vRr1eytCuqH0cdiZ_UVPb40nxSu9HCF9GJDizT4RgxuzqVsKRJYSLG9T9Pjv3ogaQHzeNRfrgr8Kt4_/pub?embedded=true"></iframe>
+</center>
+
+
+
+
+
+
+
+
+
 
 ### Their Eyes Were Watching God Close Reading - Analytical Writing
 

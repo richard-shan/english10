@@ -1,6 +1,9 @@
 site_name: Richard Shan - English 10 Portfolio
 nav:
   - Home: index.md
+  - Writer's Toolbox: toolbox.md
+  - Before and After: beforeAfter.md
+  - Greatest Hits: greatestHits.md
 
 theme: material
 
